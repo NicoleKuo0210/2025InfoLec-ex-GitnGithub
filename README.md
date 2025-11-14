@@ -57,3 +57,7 @@ git push -u origin SERVER-{ISSUE_ID}
 git push -u -f origin SERVER-{ISSUE_ID}
 ```
 8. Create a pull request (PR) on GitHub (Mention your issue in PR).
+
+## Practice
+
+Find the hidden flag (format: `BIGBEE{...}`) in the repo.
